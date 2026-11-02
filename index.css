@@ -55,7 +55,7 @@ body{
             rgba(11, 43, 27, 0.3) 65%,
             transparent 100%
         ),
-        url("/images/restaurant.avif");
+        url("./images/restaurant.avif");
 
     background-size: cover;
     background-position: center;
@@ -557,7 +557,7 @@ h5{
     transparent
   ),
   
-  url(/images/menu_2.png);
+  url(./images/menu_2.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
