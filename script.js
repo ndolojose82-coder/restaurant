@@ -177,7 +177,7 @@ send_btn.addEventListener("click", ()=>{
     
     
 
-    const my_number = "+254712345678"
+    const my_number = "+254720349953"
 
     let plain_message = `
     Hello my name is ${customerData.name}. I want a room from ${startday_name} ${startDate} to
