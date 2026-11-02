@@ -149,7 +149,17 @@ button{
     border-radius: 4px;
     color: #FFFFFF;
 }
-@media (max-width: 600px) {
+@media (max-width:500px){
+  .navbar{
+    display: flex;
+    flex-direction: column;
+  }
+  .nav-links{
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media (max-width: 900px) {
   .navbar {
     flex-direction: column;
     gap: 10px;
@@ -846,6 +856,7 @@ border-bottom: 1px solid  #e1e8e2;
         grid-template-columns: repeat(2, 1fr);
         gap: 35px;
     }
+ 
 }
 
 @media (max-width: 550px) {
